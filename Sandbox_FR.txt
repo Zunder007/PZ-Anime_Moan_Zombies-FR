@@ -1,5 +1,5 @@
 Sandbox_FR = {
-    Sandbox_AnimeMoanZombies = "Anime Moan Zombies",
-	Sandbox_AnimePercentage = "Chance d'un gémissement d'anime",
+	Sandbox_AnimeMoanZombies = "Anime Moan Zombies",
+	Sandbox_AnimePercentage = "Chance d'un gémissement d'animé",
 	Sandbox_AnimeMoanFemale = "Seules les femmes zombies gémissent",
 }
